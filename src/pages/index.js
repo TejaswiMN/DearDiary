@@ -19,9 +19,14 @@ export default function Home() {
         <div className={styles.container}>
           <main className={styles.main}>
             <h1 className={styles.title}>Dear Diary</h1>
+
+            <h4>*For Your Happily Ever After *</h4>
             <p className={styles.description}>
-              A version of yourself, In the digital age, memories serve as
-              invaluable data repositories. Leveraging cutting-edge Natural
+               <center>
+              In the digital age, memories serve as
+              invaluable data repositories. 
+              
+              Leveraging cutting-edge Natural
               Language Processing (NLP) techniques, we propose a novel approach
               to construct personalized chatbots. By extracting and processing
               user memories through digital diary,we train chatbots to emulate
@@ -31,7 +36,7 @@ export default function Home() {
               This innovative methodology not only enhances user engagement but
               also showcases the potential of using memories as memory banks to
               create AI-driven virtual assistants tailored to individual
-              experiences and expertise.
+              experiences and expertise. </center>
             </p>
           </main>
         </div>

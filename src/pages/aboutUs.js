@@ -15,10 +15,13 @@ const aboutUs = () => {
         <div className={styles.container}>
           <main className={styles.main}>
             <h1 className={styles.title}>About Us</h1>
+
+            <h3>We'll be there for you :)</h3>
+            <center>
             <p className={styles.description}>
               Welcome to our platform! We believe that memories are precious
               fragments of our lives, encapsulating our experiences, emotions,
-              and interactions. Our chatBot of the memories is designed to serve
+              and interactions. Our ChatBot of the memories is designed to serve
               as a digital diary, preserving and reflecting on these memories in
               a unique and personal way.
             </p>
@@ -27,8 +30,9 @@ const aboutUs = () => {
               Superman's, allowing you to converse with the essence of past
               moments and cherished individuals. Just like Superman draws
               strength from his Krypton Stone, you can draw wisdom and insight
-              from your memories with our chatBot.
+              from your memories with our ChatBot.
             </p>
+            </center>
           </main>
         </div>
       </Layout>
